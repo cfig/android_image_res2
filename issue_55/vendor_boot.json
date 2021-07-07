@@ -1,0 +1,12 @@
+{
+  "copy": {
+    "vendor_boot.img": "vendor_boot.img"
+  },
+  "hash": {
+    "vendor_boot.img": "5c27c9289de44caec6932d9556a93387",
+    "build/unzip_boot/bootconfig": "4c612bf64ce0fd34d33fd20eb4e867f0",
+    "build/unzip_boot/dtb": "f9bc2820b93e00c5037db412f8fdc744",
+    "vendor_boot.img.clear": "ebe151f4909d6d1a3e3bd33ee55e620f",
+    "vendor_boot.img.signed": "5c27c9289de44caec6932d9556a93387"
+  }
+}
