@@ -1,0 +1,13 @@
+{
+  "copy": {
+    "dtbo.img": "dtbo.img",
+    "vbmeta.img": "vbmeta.img"
+  },
+  "hash": {
+    "dtbo.img": "98b1885cf2d6b084c43ebedd394487de",
+    "vbmeta.img": "ec73e2a98779247117a701f86cb26b75",
+    "dtbo.img.clear": "ba4514f594396001d83b9145158ad5f0",
+    "dtbo.img.signed": "98b1885cf2d6b084c43ebedd394487de",
+    "vbmeta.img.signed": "5f7dc0beddecc0d60ac1284fb1f452c4"
+  }
+}

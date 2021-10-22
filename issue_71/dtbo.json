@@ -1,0 +1,10 @@
+{
+  "copy": {
+    "dtbo.img": "dtbo.img"
+  },
+  "hash": {
+    "dtbo.img": "4ba0306183a19cc624ab4d4261850205",
+    "dtbo.img.clear": "0dd5c8dfc807f7221540663a8b0f077b",
+    "dtbo.img.signed": "4ba0306183a19cc624ab4d4261850205"
+  }
+}
