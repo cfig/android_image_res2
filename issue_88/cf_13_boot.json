@@ -1,0 +1,10 @@
+{
+  "copy": {
+    "cf_13_boot.img": "boot.img"
+  },
+  "hash": {
+    "boot.img": "b730e4808663ef5f2a9531c2c422e195",
+    "boot.img.clear": "921902a17d00a93699adc93a6970ad7f",
+    "boot.img.signed": "b730e4808663ef5f2a9531c2c422e195"
+  }
+}
