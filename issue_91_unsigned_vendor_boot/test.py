@@ -28,7 +28,7 @@ def vendor_boot_without_dtc():
     cleanUp()
     decompressXZ("src/integrationTest/resources_2/issue_91_unsigned_vendor_boot/vendor_boot.img.xz", "vendor_boot.img")
     subprocess.check_call(gradleWrapper + " unpack", shell = True)
-    os.remove("build/unzip_boot/dtb.src")
+    os.remove("build/unzip_boot/dtb.dts")
     subprocess.check_call(gradleWrapper + " pack", shell = True)
     unittest.TestCase().assertEqual("05113ad1dfeb0d7a7111ed114e4b64c8", hashFile("vendor_boot.img"))
     unittest.TestCase().assertEqual("05113ad1dfeb0d7a7111ed114e4b64c8", hashFile("vendor_boot.img.clear"))
