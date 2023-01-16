@@ -1,0 +1,10 @@
+{
+  "copy": {
+    "vendor_boot.img": "vendor_boot.img"
+  },
+  "hash": {
+    "vendor_boot.img": "95bdff8fec1682da90c38c3a75eb94e9",
+    "vendor_boot.img.clear": "71a4c2b5fd1c2306b27563f73bebf1eb",
+    "vendor_boot.img.signed": "95bdff8fec1682da90c38c3a75eb94e9"
+  }
+}
