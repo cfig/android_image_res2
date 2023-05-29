@@ -1,0 +1,10 @@
+{
+  "copy": {
+    "recovery.img": "recovery.img"
+  },
+  "hash": {
+    "recovery.img": "e091d7bc56fc757d5337d700527cd7a0",
+    "recovery.img.clear": "983d4b0c403acae52addcca0853df078",
+    "recovery.img.signed": "4989ede41cda8482f76c812dc0989e65"
+  }
+}
