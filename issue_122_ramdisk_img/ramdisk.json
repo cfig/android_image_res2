@@ -1,0 +1,10 @@
+{
+  "copy": {
+    "ramdisk.img": "ramdisk.img"
+  },
+  "hash": {
+    "ramdisk.img": "9a2be5c8c07f4c6a298c6e6f898cf3ac",
+    "ramdisk.img.clear": "6ad4e57fe4a80ec905189a4522f421be",
+    "ramdisk.img.signed": "d29706bdd3fe909304c3f4c05db02453"
+  }
+}
