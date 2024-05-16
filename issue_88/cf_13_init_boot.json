@@ -4,7 +4,7 @@
   },
   "hash": {
     "init_boot.img": "91d44fe891057baa4f8d03cc27ab8ea4",
-    "init_boot.img.clear": "f97d5963d5f99b340a1817b9ae2b42d9",
+    "build/unzip_boot/intermediate/init_boot.img.clear": "f97d5963d5f99b340a1817b9ae2b42d9",
     "init_boot.img.signed": "91d44fe891057baa4f8d03cc27ab8ea4"
   }
 }
