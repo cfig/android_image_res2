@@ -3,8 +3,8 @@
     "cf_12_vendor_boot.img": "vendor_boot.img"
   },
   "hash": {
-    "vendor_boot.img": "a84865ec7ea5679c238f5c85df1f0a9a",
-    "vendor_boot.img.clear": "eeb4003be562379b48b77e2dea800e59",
-    "vendor_boot.img.signed": "5158b5683a998d790168147acc277d84"
+    "build/unzip_boot/intermediate/vendor_boot.img.clear": "eeb4003be562379b48b77e2dea800e59",
+    "build/unzip_boot/intermediate/vendor_boot.img.google":"eeb4003be562379b48b77e2dea800e59",
+    "build/unzip_boot/intermediate/vendor_boot.img.signed":"5158b5683a998d790168147acc277d84"
   }
 }

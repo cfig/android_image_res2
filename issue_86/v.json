@@ -3,8 +3,9 @@
     "vendor_boot.img": "vendor_boot.img"
   },
   "hash": {
-    "vendor_boot.img": "f9de4504815542688eb42de7e9191a99",
-    "vendor_boot.img.clear": "35fe7a700901653a2be3adcd9ab969a7",
-    "vendor_boot.img.signed": "3a228b0d79862f371ddca92044ef9d5b"
+    "build/unzip_boot/intermediate/vendor_boot.img.clear": "35fe7a700901653a2be3adcd9ab969a7",
+    "build/unzip_boot/intermediate/vendor_boot.img.google": "35fe7a700901653a2be3adcd9ab969a7",
+    "build/unzip_boot/intermediate/vendor_boot.img.signed": "3a228b0d79862f371ddca92044ef9d5b",
+    "vendor_boot.img": "3a228b0d79862f371ddca92044ef9d5b"
   }
 }

@@ -4,6 +4,6 @@
   },
   "hash": {
     "panther.dtb": "70b47e1d5f691f2887b66eba5bb3ca97",
-    "panther.dtb.new": "70b47e1d5f691f2887b66eba5bb3ca97"
+    "build/unzip_boot/panther.dtb.orig": "70b47e1d5f691f2887b66eba5bb3ca97"
   }
 }
