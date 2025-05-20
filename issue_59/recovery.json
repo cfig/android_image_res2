@@ -4,6 +4,6 @@
   },
   "hash": {
     "recovery.img": "e2e93a9076ee0e2f09027f50dedbd70c",
-    "recovery.img.clear": "e2e93a9076ee0e2f09027f50dedbd70c"
+    "build/unzip_boot/intermediate/recovery.img.clear": "e2e93a9076ee0e2f09027f50dedbd70c"
   }
 }

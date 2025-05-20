@@ -5,6 +5,6 @@
   "hash": {
     "init_boot.img": "684b235f82cbb813eab47ab0c9ee2dc3",
     "build/unzip_boot/intermediate/init_boot.img.clear": "52f29e9dc5cc0354bb490d2871bec079",
-    "init_boot.img.signed": "684b235f82cbb813eab47ab0c9ee2dc3"
+    "build/unzip_boot/intermediate/init_boot.img.signed": "684b235f82cbb813eab47ab0c9ee2dc3"
   }
 }
